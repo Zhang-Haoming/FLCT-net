@@ -5,7 +5,7 @@ Code and data for: 'FLCT: Subsegment-Based CNN–Transformer with Rotary Positio
 
 FLCT encodes 0.5 s EEG subsegments using a shared residual CNN, integrates their representations through a Transformer with rotary position embedding (RoPE), and reconstructs the denoised waveform using a residual decoder.
 
-![Overview of FLCT](xxxx.png)
+![Overview of FLCT](Graphical_Abstract.jpg)
 
 ## Repository Structure
 
