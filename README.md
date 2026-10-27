@@ -1,5 +1,6 @@
 # FLCT
-
+## Description
+Code and data for: 'FLCT: Subsegment-Based CNN–Transformer with Rotary Position Embedding for Flexible-Length EEG Denoising'.
 PyTorch implementation of FLCT, a subsegment-based CNN–Transformer framework for flexible-length EEG denoising.
 
 FLCT encodes 0.5 s EEG subsegments using a shared residual CNN, integrates their representations through a Transformer with rotary position embedding (RoPE), and reconstructs the denoised waveform using a residual decoder.
